@@ -1,0 +1,61 @@
+Notes questions d'exam
+
+A savoir:
+
+Node vs Npm
+	-Node: le gestionnaire de packages pour JavaScript. npm est l'interface de ligne de commande de l'écosystème npm. 
+	 Il est testé au combat, étonnamment flexible et utilisé par des centaines de milliers de développeurs JavaScript chaque jour.
+	
+	-Npm: appartient à la catégorie "Frameworks (Full Stack)" de la pile technologique, 
+	 tandis que npm peut être principalement classé sous "Front End Package Manager".
+
+Typescript et les objets
+	-Typescript et le type any
+
+Typescript et les tableaux
+	-Méthodes génériques
+	-Tableau Tuple
+
+Typescript et les énumérations
+	-Les enum
+
+Les types d'union dans TypeScript
+	-Permet de combiner plusieurs types en un seul type. 
+	 Le concept caché derrière le type union | est celui de 👍
+	-En Typescript : typeof
+	-En Java : instanceOf
+
+Propriétés BootStrap en classe
+Code	Définition
+l	Définit la marge gauche ou le padding gauche
+r	Définit la marge droite ou le padding droit
+t	Définit la marge top ou le padding top
+b	Définit la marge base ou le padding bas
+x	Pour définir le padding et les marges gauche et droite par un seul appel
+y	Pour définir les marges supérieure et inférieure
+blank	Marge et padding pour tous les côtés
+
+Quelle est la commande Emmet pour générer le code des instructions précédentes ?
+	-Savoir comment Emmet fonctionne
+
+Il est important que l'inclusion d'une nouvelle section ne modifie la structure du site web. 
+	-En gros, il faut rendre le site **RESPONSIVE**
+
+Serveur Live Reload
+
+Librairie Bootstrap 4.5
+	-Bootstrap est un framework front-end open source basé sur 3 technologies de base telles que HTML, CSS et JavaScript.
+	-En général, Bootstrap utilise une mise en page réactive, vous n'avez donc pas à vous inquiéter beaucoup sur la réactivité 
+	 de votre site Web à l'aide de Bootstrap. Vous pouvez le faire d'une manière très simple.
+
+Système de grilles
+
+CDN --->
+	-CDN (Content Delivery Network) est une plate-forme de serveurs hautement distribuée 
+	 qui permet de minimiser les délais de chargement du contenu de la page Web en réduisant 
+         la distance physique entre le serveur et l'utilisateur. 
+	 Sans CDN, les serveurs d'origine de contenu doivent répondre à chaque demande de l'utilisateur final.
+
+
+
+

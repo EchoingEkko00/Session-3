@@ -1,0 +1,5 @@
+
+Version de node (node -v)
+Version de npm (npm -v)
+
+difference entre node et npm ().
